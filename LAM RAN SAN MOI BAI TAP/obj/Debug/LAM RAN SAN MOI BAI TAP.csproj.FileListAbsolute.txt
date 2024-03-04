@@ -1,0 +1,7 @@
+D:\luu tru vao day\lung tung\chua c#\LAM RAN SAN MOI BAI TAP\LAM RAN SAN MOI BAI TAP\obj\Debug\LAM RAN SAN MOI BAI TAP.csproj.AssemblyReference.cache
+D:\luu tru vao day\lung tung\chua c#\LAM RAN SAN MOI BAI TAP\LAM RAN SAN MOI BAI TAP\obj\Debug\LAM RAN SAN MOI BAI TAP.csproj.CoreCompileInputs.cache
+D:\luu tru vao day\lung tung\chua c#\LAM RAN SAN MOI BAI TAP\LAM RAN SAN MOI BAI TAP\bin\Debug\LAM RAN SAN MOI BAI TAP.exe.config
+D:\luu tru vao day\lung tung\chua c#\LAM RAN SAN MOI BAI TAP\LAM RAN SAN MOI BAI TAP\bin\Debug\LAM RAN SAN MOI BAI TAP.exe
+D:\luu tru vao day\lung tung\chua c#\LAM RAN SAN MOI BAI TAP\LAM RAN SAN MOI BAI TAP\bin\Debug\LAM RAN SAN MOI BAI TAP.pdb
+D:\luu tru vao day\lung tung\chua c#\LAM RAN SAN MOI BAI TAP\LAM RAN SAN MOI BAI TAP\obj\Debug\LAM RAN SAN MOI BAI TAP.exe
+D:\luu tru vao day\lung tung\chua c#\LAM RAN SAN MOI BAI TAP\LAM RAN SAN MOI BAI TAP\obj\Debug\LAM RAN SAN MOI BAI TAP.pdb
